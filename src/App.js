@@ -97,7 +97,7 @@ function Logo() {
   return (
     <div className="logo">
       <span role="img">🍿</span>
-      <h1>MyCinema</h1>
+      <h1>MyCinemaWorld</h1>
     </div>
   );
 }
